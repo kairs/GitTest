@@ -18,6 +18,9 @@ bld/
 [Bb]in/
 [Oo]bj/
 
+# SourceTree
+.idea/
+
 # Roslyn cache directories
 *.ide/
 

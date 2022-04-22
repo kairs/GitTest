@@ -3,6 +3,6 @@ Testing git
 
 - Liste av ting
 - Stor skrift?
-- Ikke så stor alivek
+- Ikke så stor allikevel
 
 https://stackedit.io/editor
